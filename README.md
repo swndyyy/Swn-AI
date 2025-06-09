@@ -1,6 +1,6 @@
 # Swn AI
 
-![SWN AI Logo](https://raw.githubusercontent.com/swndyyy/Swn-AI/refs/heads/main/assets/images/swn-img.png)
+![SWN AI Logo](https://raw.githubusercontent.com/swndyyy/Swn-AI/refs/heads/main/assets/images/img.jpg)
 
 **Swn AI** is a minimal and intelligent web-based assistant designed to answer your questions and generate stylish SWN-themed logos with a futuristic touch. No installation required — just open the site and start interacting.
 
